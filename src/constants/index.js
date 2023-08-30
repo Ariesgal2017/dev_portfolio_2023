@@ -42,19 +42,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Lead Automation Engineer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Lab Support Technician",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Semiconductor Product Validation Engineer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Software Developer",
     icon: creator,
   },
 ];
@@ -116,55 +116,40 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Lead Automation Engineer",
+    company_name: "Intel Corp.",
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "June 2022 - May 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
+      "As a Test Automation Engineer at Company Name, I played a pivotal role in ensuring the quality and reliability of our software products by designing, developing, and maintaining automated testing solutions. My work contributed to streamlining the testing process, reducing manual testing efforts, and enhancing the overall software quality and eliminated possibility for human error."
+    ]
+     
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
+    title: "Lab Support Technician",
+    company_name: "Intel Corp.",
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Feb 2021 - June 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
+      "Provided essential technical support and assistance to the laboratory team, contributing to the smooth operation of research and testing activities. With a strong focus on precision, safety, and efficiency, I played a crucial role in maintaining laboratory equipment, managing inventory, and ensuring compliance with safety protocols. Here is an overview of my key responsibilities and achievements:"
+    ]
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "Semiconductor Product Validation Engineer",
+    company_name: "Intel Corp.",
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "May 2020 - Feb 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Played a vital role in ensuring the reliability and performance of semiconductor products through rigorous testing and validation processes. This position required a deep understanding of semiconductor technology and the ability to execute complex validation procedures to meet industry standards and customer expectations."
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
+    title: "Software Developer",
+    company_name: "Databyte PC Solutions, LLC",
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Nov 2015 - Jan 2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Played a crucial role in designing, developing, and maintaining innovative software solutions. My responsibilities encompassed the entire software development lifecycle, from initial concept to deployment and ongoing support. During my tenure, I consistently demonstrated strong problem-solving skills, a dedication to writing clean and efficient code, and a commitment to delivering high-quality software that met or exceeded client expectations."
     ],
   },
 ];
